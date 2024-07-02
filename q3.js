@@ -23,4 +23,4 @@ console.log(primeNumber(d1));
 console.log(primeNumber(d2));
 console.log(primeNumber(d3));
 module.exports = primeNumber;
-// ศุภกร บูรณะชาติ 660610798
+// ศุภกร บูรณะชาติ  660610798

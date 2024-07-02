@@ -26,4 +26,4 @@ console.log(typeChecker(a3, b3));
 
 module.exports = typeChecker;
 
-// ศุภกร บูรณะชาติ 660610798
+// ศุภกร บูรณะชาติ  660610798

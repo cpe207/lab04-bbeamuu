@@ -12,4 +12,4 @@ console.log(arrayStringify(c1));
 console.log(arrayStringify(c2));
 console.log(arrayStringify(c3));
 module.exports = arrayStringify;
-// ศุภกร บูรณะชาติ 660610798
+// ศุภกร บูรณะชาติ  660610798
