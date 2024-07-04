@@ -21,7 +21,7 @@ jobs:
         setup-command: npm install
         command: npm test q1
         timeout: 10
-        max-score:  3
+        max-score: 3
     - name: q2
       id: q2
       uses: classroom-resources/autograding-command-grader@v1
